@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "BotniAdams",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BotniAdams",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survalism.aternos.me",
-    "port": 30778,
+    "ip": "node-sg-free-01.tickhosting.com",
+    "port": 50364,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
