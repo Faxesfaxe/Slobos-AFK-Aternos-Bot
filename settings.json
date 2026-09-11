@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-sg-free-01.tickhosting.com",
-    "port": 50214,
+    "ip": "pinoyfun.play.hosting",
+    "port": 1162,
     "version": "",
     "try-creative": true
   },
