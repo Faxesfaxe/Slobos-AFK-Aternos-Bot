@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "pinoyfun.play.hosting",
-    "port": 63760,
+    "port": "",
     "version": "",
     "try-creative": true
   },
