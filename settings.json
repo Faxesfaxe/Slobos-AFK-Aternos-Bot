@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "127.0.0.1",
+    "ip": "pinoyfun.play.hosting",
     "port": 63760,
     "version": "",
     "try-creative": true
