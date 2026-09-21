@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "wavebot001",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "node-sg-free-01.tickhosting.com",
