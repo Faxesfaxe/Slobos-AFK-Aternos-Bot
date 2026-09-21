@@ -1,12 +1,12 @@
 {
   "name": "BotniAdams",
   "bot-account": {
-    "username": "BotniAdams",
+    "username": "wavebot001",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "pinoymc.tkmc.net",
+    "ip": "node-sg-free-01.tickhosting.com",
     "port": "",
     "version": "",
     "try-creative": true
