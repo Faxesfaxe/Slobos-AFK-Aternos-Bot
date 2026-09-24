@@ -1,12 +1,12 @@
 {
   "name": "BotniAdams",
   "bot-account": {
-    "username": "wavebot001",
+    "username": "Unity",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "node-sg-free-01.tickhosting.com",
+    "ip": "unitymc.tkmc.net",
     "port": "",
     "version": "",
     "try-creative": true
