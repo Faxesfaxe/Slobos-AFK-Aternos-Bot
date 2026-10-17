@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Unity",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "unitymc.tkmc.net",
+    "ip": "node-sg-free-01.tickhosting.com:50465",
     "port": "",
-    "version": "",
+    "version": "1.26.33.1",
     "try-creative": true
   },
   "position": {
