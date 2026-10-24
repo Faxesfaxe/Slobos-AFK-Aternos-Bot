@@ -9,7 +9,7 @@
     "ip": "unitymc.tkmc.net",
     "port": "",
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -46,7 +46,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 1
     },
     "look-around": {
       "enabled": true,
