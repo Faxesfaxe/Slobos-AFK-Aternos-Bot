@@ -1222,7 +1222,12 @@ function createBot() {
       hideErrors: false,
       checkTimeoutInterval: 600000,
     });
-
+    // Fix for invalid movement / missing tick end packets
+bot.on('physicTick', () => {
+    if (bot._client && bot._client.write) {
+        bot._client.write('tick_end', {});
+});
+    
     bot.loadPlugin(pathfinder);
 
     // FIX: connection timeout - end the old bot before reconnecting to avoid ghost bots
