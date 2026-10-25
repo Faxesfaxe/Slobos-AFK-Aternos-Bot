@@ -1226,6 +1226,7 @@ function createBot() {
 bot.on('physicTick', () => {
     if (bot._client && bot._client.write) {
         bot._client.write('tick_end', {});
+    }
 });
     
     bot.loadPlugin(pathfinder);
