@@ -9,7 +9,7 @@
     "ip": "unitymc.tkmc.net",
     "port": "",
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chalol78193"
     },
     "anti-afk": {
       "enabled": true,
@@ -38,15 +38,15 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 0,
+    "max-reconnect-delay": 0
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 1
+      "speed": 0
     },
     "look-around": {
       "enabled": true,
@@ -54,23 +54,23 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
